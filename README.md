@@ -16,6 +16,7 @@ A website that offers fitness training services.
 
 ## Website
 https://sites.google.com/pannacollege.org/pannacollege/home
+https://master-anku.github.io/RunBuddy2/
 
 ## Contribution
 Made with ❤️ by Run Buddy
